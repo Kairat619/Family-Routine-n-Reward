@@ -1,0 +1,6 @@
+{
+  "name": "Family Routine & Reward",
+  "description": "Kids Daily Routine & Reward Management System with Google Sheets & Apps Script",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
